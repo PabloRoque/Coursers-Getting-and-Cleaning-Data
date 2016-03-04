@@ -27,8 +27,4 @@ Data is represented in the figure "Rplot.png" in this repo.
 It plots column values of the first 12 magnitudes in the tidydata set, i.e., t-gravity-acc-mean, t-body-acc-mean... for the 3 cartesian axis X,Y,Z. 
 For each magnitude all the subjects of the analysis are listed in the x-axis of the plot. Different colors represent the 6 different activities (WALK, STANDING...). The size of the dots match the standar deviation of the corresponding magnitude (some columns to the right in the data table). I took the liberty of taking the absolute value of the std values, since I could not understand what negative std meant.
 
-[image]: https://github.com/PabloRoque/Coursera-Getting-and-Cleaning-Data/blob/master/Rplot.png
-
-
-
-
+![Rplot.R](https://github.com/PabloRoque/Coursera-Getting-and-Cleaning-Data/blob/master/Rplot.png)
